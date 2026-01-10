@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "rbiostats",
+    "title": "Bioestadística Aplicada con R - Manual Práctico",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "Preface\nEste es el prefacio del documento quarto book.",
     "crumbs": [
       "Preface"
     ]

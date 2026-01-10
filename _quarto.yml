@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "rbiostats"
-  author: "Norah Jones"
+  title: "Bioestadística Aplicada con R - Manual Práctico"
+  author: "Christian Jair Cerazo Huapaya"
   date: "10/1/2026"
   chapters:
     - index.qmd
