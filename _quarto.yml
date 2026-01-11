@@ -9,6 +9,8 @@ book:
   favicon: logo.png
   cover-image: logo.png
   repo-url: https://github.com/ChristianJairCH/rbiostats.git
+  repo-subdir: ""
+  repo-branch: main
   repo-link-target: _blank
   repo-actions: [edit, source, issue]
   downloads: [pdf, epub]
