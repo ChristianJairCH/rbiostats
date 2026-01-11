@@ -7,13 +7,29 @@ book:
   author: "Christian Jair Cerazo Huapaya"
   date: "10/1/2026"
   favicon: logo.png
+  cover-image: logo.png
+  repo-url: https://github.com/ChristianJairCH/rbiostats.git
+  repo-actions: [edit, source, issue]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook, linkedin]
+  sidebar:
+    type: ligth
+    style: docked
+    background: light
+    foreground: dark
+  reader-mode: true
+  
   chapters:
     - index.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
 
+comments:
+  hypothesis: true
+
 bibliography: references.bib
+csl: apa.csl
 
 format:
   html:

@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Bioestadística Aplicada con R - Manual Práctico",
     "section": "",
-    "text": "Preface\nEste es el prefacio del documento quarto book.",
+    "text": "Prefacio\nEste es el prefacio del documento quarto book.",
     "crumbs": [
-      "Preface"
+      "Prefacio"
     ]
   },
   {
@@ -14,19 +14,19 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, D. E. (1984). Literate programming. Comput. J., 27(2), 97–111. https://doi.org/10.1093/comjnl/27.2.97",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción</span>"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "2  Resumen",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "text": "Este manual ofrece una introducción práctica a la bioestadística con R, orientado a estudiantes e investigadores en ciencias biológicas. A lo largo de sus capítulos, se exploran conceptos clave como estadística descriptiva, pruebas de hipótesis, regresión y visualización de datos, todo con ejemplos reproducibles en Quarto.\nEl enfoque está centrado en la aplicación real, con datos biológicos y herramientas modernas como ggplot2, dplyr y Quarto para documentación científica.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resumen</span>"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "References"
+      "Referencias"
     ]
   }
 ]

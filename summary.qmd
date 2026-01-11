@@ -1,6 +1,8 @@
-# Summary
+# Resumen
 
-In summary, this book has no content whatsoever.
+Este manual ofrece una introducción práctica a la bioestadística con R, orientado a estudiantes e investigadores en ciencias biológicas. A lo largo de sus capítulos, se exploran conceptos clave como estadística descriptiva, pruebas de hipótesis, regresión y visualización de datos, todo con ejemplos reproducibles en Quarto.
+
+El enfoque está centrado en la aplicación real, con datos biológicos y herramientas modernas como ggplot2, dplyr y Quarto para documentación científica.
 
 ```{r}
 1 + 1
