@@ -6,6 +6,7 @@ book:
   title: "Bioestadística Aplicada con R - Manual Práctico"
   author: "Christian Jair Cerazo Huapaya"
   date: "10/1/2026"
+  language: es
   favicon: logo.png
   cover-image: logo.png
   repo-url: https://github.com/ChristianJairCH/rbiostats
@@ -27,6 +28,7 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
+    - prueba_ejercicio.qmd
 
 comments:
   hypothesis: true
